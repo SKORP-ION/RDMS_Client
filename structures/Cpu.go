@@ -5,3 +5,4 @@ type Cpu struct {
 	Arch string
 	Cores uint8
 }
+
